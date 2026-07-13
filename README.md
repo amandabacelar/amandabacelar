@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Amanda Bacelar
 
-**`Desenvolvedora RPA / Back end`**
+**`Desenvolvedora RPA / Full Stack / DevOps`**
 
 ### 🤖 Linguagens e Tecnologias
 <img 
